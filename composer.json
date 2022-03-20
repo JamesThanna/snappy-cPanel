@@ -1,6 +1,5 @@
 {
     "name": "snappyintergation/cpanel",
-    "type": "composer library",
     "license": "MIT",
     "minimum-stability": "stable",
     "require": {}
