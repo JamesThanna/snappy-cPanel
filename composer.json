@@ -1,8 +1,8 @@
 {
     "name": "snappyintergation/cpanel",
-    "description": "cPanel API to Server",
-    "type": "composer-project",
+    "type": "composer library",
     "license": "MIT",
-     "minimum-stability": "stable"
+    "minimum-stability": "stable",
     "require": {}
 }
+
