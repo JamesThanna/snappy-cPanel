@@ -3,5 +3,6 @@
     "description": "cPanel API to Server",
     "type": "composer-project",
     "license": "MIT",
+     "minimum-stability": "stable"
     "require": {}
 }
