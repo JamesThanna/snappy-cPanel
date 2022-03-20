@@ -1,5 +1,5 @@
 {
-    "name": "snappy/cpanel",
+    "name": "snappyintergation/cpanel",
     "description": "cPanel API to Server",
     "type": "composer-project",
     "license": "MIT",
